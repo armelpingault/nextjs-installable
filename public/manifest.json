@@ -1,0 +1,17 @@
+{
+  "name": "NextJS Installable",
+  "short_name": "Installable",
+  "theme_color": "#000000",
+  "background_color": "#000000",
+  "display": "standalone",
+  "scope": "/",
+  "start_url": "/",
+  "description": "Minimal configuration for a NextJS installable app",
+  "icons": [
+    {
+      "src": "/images/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
